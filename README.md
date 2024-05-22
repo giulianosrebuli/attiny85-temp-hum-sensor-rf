@@ -13,6 +13,7 @@ Links to original repositories from where i got the libraries:
 * [TinyWireM](https://github.com/adafruit/TinyWireM)
 * [TinySnore](https://github.com/connornishijima/TinySnore/tree/master)
 * [SI7021](https://github.com/LowPowerLab/SI7021/tree/master)
+* [RC-Switch](https://github.com/sui77/rc-switch)
 
 **Notes**
 - I had to make a slight modification in the SI7021 lib so it would be compatible with the TinyWireM;
@@ -20,5 +21,5 @@ Links to original repositories from where i got the libraries:
 
 Feel free to use as you please, and improvements are welcome.
 
-This inicial code is just a initial desing, as the intention is to add RF support and it is not done yet. A hardware desing board will be included as well.
+A hardware desing board will be included as well.
 I will update the repo as soon it is ready.
